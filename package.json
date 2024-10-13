@@ -1,0 +1,15 @@
+{
+  "name": "torust-rtt",
+  "version": "1.0.0",
+  "description": "Rust To Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.7.5"
+  }
+}
