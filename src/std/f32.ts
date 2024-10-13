@@ -1,0 +1,1 @@
+/** @description this library`s f64 and f32 is same. So use f64 */

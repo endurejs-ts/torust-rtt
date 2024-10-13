@@ -1,4 +1,5 @@
 /** @description Only the number part of Rust's functions that cannot be replaced by the math library in TypeScript were changed. */
+/** @description gamma function is exclusion */
 
 export function roundTiesEven(value: number): number {
     const rounded = Math.round(value);
@@ -41,4 +42,3 @@ export function rem_euclid(value: number, rhs: number): number {
     const r = value % rhs;
     return r < 0 ? r + Math.abs(rhs) : r;
 }
-
